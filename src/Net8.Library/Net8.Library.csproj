@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>EHonda.Net9CopyCtorBug.Net8.Library</PackageId>
+        <RootNamespace>EHonda.Net9CopyCtorBug.Net8.Library</RootNamespace>
+        <Version>1.0.0</Version>
+    </PropertyGroup>
+
+</Project>
