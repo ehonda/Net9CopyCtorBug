@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C1C9BA5B-A4C6-490D-88F8-06D0E259C743}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net8.0", "src\net8.0\net8.0.csproj", "{0E5A2A6F-1105-4CB0-B985-28417FE9F620}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8.App", "src\Net8.App\Net8.App.csproj", "{0E5A2A6F-1105-4CB0-B985-28417FE9F620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net9.0", "src\net9.0\net9.0.csproj", "{5F43CB2C-4AA5-4106-99EA-F828661DE6F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net9.App", "src\Net9.App\Net9.App.csproj", "{5F43CB2C-4AA5-4106-99EA-F828661DE6F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
