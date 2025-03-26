@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EHonda.Net9CopyCtorBug.Net8.Library" Version="1.0.0" />
+    <PackageReference Include="EHonda.Net9CopyCtorBug.Net9.Library" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
